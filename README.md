@@ -6,6 +6,6 @@ This project is meant to showcase 3D narrative design skills including dialogue 
 
 [Vision Document](https://mcdonaldduncan.github.io/3D-Narrative-Release/Fictional%20Friction.pdf)
 
-Video Walkthrough
+[Video Walkthrough](https://youtu.be/hJ-Sa3QG19w)
 
 [Current Release:](https://github.com/mcdonaldduncan/3D-Narrative-Release/releases/tag/v1.0.0)
