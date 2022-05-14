@@ -6,7 +6,9 @@ This project is meant to showcase 3D narrative design skills including dialogue 
 
 Controls:
 Arrow keys to move
+
 Spacebar to interact
+
 Tab to open quest log
 
 [Vision Document](https://mcdonaldduncan.github.io/3D-Narrative-Release/Fictional%20Friction.pdf)
