@@ -8,4 +8,4 @@ This project is meant to showcase 3D narrative design skills including dialogue 
 
 Video Walkthrough
 
-Current Release:
+[Current Release:](https://github.com/mcdonaldduncan/3D-Narrative-Release/releases/tag/v1.0.0)
