@@ -16,3 +16,5 @@ Arrow keys to move, Spacebar to interact, Tab to open quest log
 
 ![screenshot](https://github.com/mcdonaldduncan/3D-Narrative-Release/blob/main/Screenshot%20(15).png?raw=true)
 ![screenshot](https://github.com/mcdonaldduncan/3D-Narrative-Release/blob/main/Screenshot%20(16).png?raw=true)
+
+All 3D assets sourced from Unity Asset Store
