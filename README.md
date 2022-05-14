@@ -11,7 +11,7 @@ Arrow keys to move, Spacebar to interact, Tab to open quest log
 
 [Video Walkthrough](https://youtu.be/hJ-Sa3QG19w)
 
-[Current Release](https://github.com/mcdonaldduncan/3D-Narrative-Release/releases/tag/v1.0.0)
+[Current Release](https://github.com/mcdonaldduncan/3D-Narrative-Release/releases/tag/v1.0.1)
 
 
 ![screenshot](https://github.com/mcdonaldduncan/3D-Narrative-Release/blob/main/Screenshot%20(15).png?raw=true)
