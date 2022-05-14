@@ -4,6 +4,6 @@ Mysterious Dreams is a short 3D narrative project made using Pixel Crushers Dial
 
 This project is meant to showcase 3D narrative design skills including dialogue construction, environmental storytelling and cinematic placement. 
 
-Vision Document:
+[Vision Document](https://mcdonaldduncan.github.io/3D-Narrative-Release/)
 
 Current Release:
